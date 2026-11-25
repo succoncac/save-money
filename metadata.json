@@ -1,0 +1,6 @@
+{
+  "name": "Ví Tiết Kiệm Cá Nhân",
+  "description": "Ứng dụng quản lý ví tiết kiệm cá nhân bằng VNĐ với quét tờ tiền AI, chống trùng số seri và trợ lý tài chính thông minh.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
